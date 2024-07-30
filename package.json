@@ -1,0 +1,30 @@
+{
+  "name": "hw1-node",
+  "version": "1.0.0",
+  "description": "Node.js Homework 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djxsrouk/hw1-node-js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Andrei-Gabriel Paiu-Rotundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djxsrouk/hw1-node-js/issues"
+  },
+  "homepage": "https://github.com/djxsrouk/hw1-node-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "yargs": "^17.7.2"
+  }
+}
